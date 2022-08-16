@@ -18,7 +18,7 @@
 //  }
 //     console.log("Y out = ", y);
 
-// const
+// const can change in object
 
 // const a = 50;
 // a = 100; 
