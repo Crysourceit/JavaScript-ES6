@@ -1,4 +1,4 @@
-original function
+// original function
 
 // function fullname(fname, lname) {
 //    return fname +" "+ lname;
