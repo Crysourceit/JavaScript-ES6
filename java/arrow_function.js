@@ -21,7 +21,7 @@
 // console.log(fullname("good","dev"));
 // console.log(setage(35));
 
-// // object
+// // object 
 //  const student = name => ({name : name, age : 25})
 
 //  let result = student("Inw Boy")
